@@ -11,6 +11,7 @@ I have created a python script to inject your name, email, etc. directly into th
 
 ### Update Personal Information
 Use your favourite text editor to update your personal information in the variables.env file.
+
     nano variables.env
 
 ### Build

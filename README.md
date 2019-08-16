@@ -10,8 +10,7 @@ I have created a python script to inject your name, email, etc. directly into th
     cd email-signature-generator
 
 ### Update Personal Information
-
-    cd email-signature-generator
+Use your favourite text editor to update your personal information in the variables.env file.
     nano variables.env
 
 ### Build
